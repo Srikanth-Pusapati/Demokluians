@@ -1,2 +1,2 @@
 # Demokluians
-Demo projects of using different technologies 
+Demo projects using different technologies 
